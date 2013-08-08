@@ -3,6 +3,17 @@ Introduction
 
 Seqtk is a fast and lightweight tool for processing sequences in the FASTA or FASTQ format. It seamlessly parses both FASTA and FASTQ files which can also be optionally compressed by gzip.
 
+Installation
+------------
+The good old unix maxim of 
+```
+make
+make install
+```
+should work!
+
+If you're installing `seqtk` locally, one can use `make install PREFIX=~/`.
+
 Examples
 --------
 
